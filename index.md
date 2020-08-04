@@ -1,3 +1,5 @@
+
+
 ## QuantumResources
 Here Quantum Resources like: Book, Papers, Videos
 
@@ -480,3 +482,13 @@ Here Quantum Resources like: Book, Papers, Videos
 |1972| [Computing Methods in Quantum Organic Chemistry](https://b-ok.lat/book/601760/c72c21)|
 |1972| [Computing Methods in Quantum Organic Chemistry  ](https://b-ok.lat/book/1181798/9e285e)|
 |1971| [Problems in Quantum Mechanics](https://b-ok.lat/book/638250/854205)|
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174495056-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174495056-1');
+</script>
